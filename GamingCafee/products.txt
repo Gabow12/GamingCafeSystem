@@ -1,0 +1,10 @@
+P001,Pancit Canton,Food,35.0,48
+P002,Fries,Food,50.0,54
+P003,Nachos,Food,70.0,50
+P004,Burger,Food,80.0,50
+P005,Footlong,Food,90.0,50
+P006,Coffee,Drink,30.0,50
+P007,Coke,Drink,35.0,50
+P008,Sprite,Drink,35.0,50
+P009,Royal,Drink,35.0,50
+P010,Water,Drink,20.0,50
